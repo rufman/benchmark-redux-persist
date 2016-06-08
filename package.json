@@ -1,0 +1,25 @@
+{
+  "name": "benchmark-redux-persist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-plugin-lodash": "^3.1.5",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-stage-2": "^6.5.0",
+    "babel-register": "^6.9.0",
+    "expose-loader": "^0.7.1",
+    "webpack": "^1.13.1"
+  },
+  "dependencies": {
+    "redux": "^3.5.2",
+    "redux-persist": "^3.2.2"
+  }
+}
